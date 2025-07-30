@@ -39,7 +39,7 @@ The dashboard includes the following key features:
 
 ## 📷 Dashboard Preview
 
-> `![Dashboard Preview](https://github.com/lailabudianti/OperatinalSalesDashboard/blob/main/Blinkit%20dashboard_page-0001.jpg)`
+> ![image](https://github.com/lailabudianti/OperatinalSalesDashboard/blob/main/Blinkit%20dashboard_page-0001.jpg)
 
 ---
 
