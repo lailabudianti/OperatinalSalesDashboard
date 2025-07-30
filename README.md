@@ -39,8 +39,7 @@ The dashboard includes the following key features:
 
 ## 📷 Dashboard Preview
 
-> *(Insert screenshot of your dashboard here)*  
-> `![Dashboard Preview](assets/blinkit-dashboard-screenshot.png)`
+> `![Dashboard Preview](https://github.com/lailabudianti/OperatinalSalesDashboard/blob/main/Blinkit%20dashboard_page-0001.jpg)`
 
 ---
 
