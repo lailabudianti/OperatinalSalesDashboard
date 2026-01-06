@@ -1,6 +1,9 @@
 # 🛒 Blinkit – Sales Performance Dashboard
 
-This project showcases a one-page interactive dashboard built with Power BI to analyze retail sales data from Blinkit, a fast-moving consumer goods (FMCG) delivery platform. It offers a comprehensive and analytical view of sales performance across outlet types, product categories, and customer engagement metrics. Key indicators such as total sales, average sales, number of items sold, and customer ratings are visualized to support data-driven decision-making. By segmenting data based on outlet and product attributes, the dashboard helps stakeholders identify high-performing categories, evaluate outlet efficiency, and optimize inventory, marketing focus, and regional strategies.
+---
+
+This project analyzes Blinkit's sales data to understand the total sales distribution and business performance patterns across various outlets. Through an interactive dashboard, the analysis focuses on product contribution and sales segmentation based on fat content, as well as performance differences based on size, location, and outlet type. The insights generated aim to provide a data-driven overview of business performance as a context for decision-making.
+
 ---
 
 ## 📊 Dashboard Overview
